@@ -1,0 +1,23 @@
+{
+    "name": "Hemanth Pothineni - Data Engineer Portfolio",
+    "short_name": "HP Portfolio",
+    "description": "Experienced Data Engineer specializing in ETL/ELT pipelines, Apache Airflow, Databricks, and cloud platforms",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#0f172a",
+    "icons": [
+        {
+            "src": "/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
